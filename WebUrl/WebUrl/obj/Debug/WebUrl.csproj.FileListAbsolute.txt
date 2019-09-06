@@ -1,0 +1,8 @@
+D:\work\WorkProject\MyCode\WebUrl\WebUrl\bin\WebUrl.dll.config
+D:\work\WorkProject\MyCode\WebUrl\WebUrl\bin\WebUrl.dll
+D:\work\WorkProject\MyCode\WebUrl\WebUrl\bin\WebUrl.pdb
+D:\work\WorkProject\MyCode\WebUrl\WebUrl\bin\aliyun-net-sdk-core.dll
+D:\work\WorkProject\MyCode\WebUrl\WebUrl\obj\Debug\WebUrl.csprojResolveAssemblyReference.cache
+D:\work\WorkProject\MyCode\WebUrl\WebUrl\obj\Debug\WebUrl.dll
+D:\work\WorkProject\MyCode\WebUrl\WebUrl\obj\Debug\WebUrl.pdb
+D:\work\WorkProject\MyCode\WebUrl\WebUrl\bin\MySql.Data.dll
